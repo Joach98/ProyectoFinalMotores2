@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:ProyectoFinalMotores2/Assets/Prefabs/CharacterControllers/PlayerAddForce.prefab.meta
+guid: 71350ec08bdbd9c42a453df977b4fca3
+PrefabImporter:
+=======
+guid: 5045ec5ea5b1ca744b31112bb5fc00e9
+folderAsset: yes
+DefaultImporter:
+>>>>>>> HuberBranch:ProyectoFinalMotores2/Assets/Scripts/Minigames.meta
+=======
+guid: 71350ec08bdbd9c42a453df977b4fca3
+PrefabImporter:
+>>>>>>> HuberBranch
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:ProyectoFinalMotores2/Assets/Prefabs/CharacterControllers.meta
 guid: e6fadd60112607149a9b0149d6f49a54
+=======
+guid: 15e1d6fd6150edf4895debf886193dcd
+>>>>>>> HuberBranch:ProyectoFinalMotores2/Assets/3DModels/Huber.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
